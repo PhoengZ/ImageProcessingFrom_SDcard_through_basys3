@@ -1,7 +1,7 @@
-#Project Readme  
+# Project Readme  
 Since I did not write all the code by myself, there are several sections that I need to understand on my own.
 
-##Steps to read data from the SD Card:  
+## Steps to read data from the SD Card:  
 2.Convert the GIF file into 6 PNG frames, each frame being RGB16bit, 64x48.
 3.Convert each PNG into a .bin file.
 4.Combine the 6 .bin files into a single .bin file.
