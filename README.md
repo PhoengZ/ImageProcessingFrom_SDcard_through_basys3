@@ -1,4 +1,4 @@
-# Project Readme  
+# ImageProcessingFromeSDCard  
 Since I did not write all the code by myself, there are several sections that I need to understand on my own.
 
 ## Steps to read data from the SD Card:  
